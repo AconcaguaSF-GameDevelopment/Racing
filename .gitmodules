@@ -1,3 +1,3 @@
-[submodule "Assets/Plugins/ASFGameDevLib"]
-	path = Assets/Plugins/ASFGameDevLib
-	url = https://github.com/AconcaguaSF-GameDevelopment/ASFGameDevLib.git
+[submodule "Assets/Plugins/GameDevLib"]
+	path = Assets/Plugins/GameDevLib
+	url = https://github.com/AconcaguaSF-GameDevelopment/GameDevLib.git
